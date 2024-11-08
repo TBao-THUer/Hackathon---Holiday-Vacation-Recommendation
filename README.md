@@ -33,7 +33,7 @@ The "Holiday Vacation Recommendation" web app helps users discover travel destin
 Follow these steps to set up and run the project locally.
 
 ## Prerequisites  
-  * Python 3.7+  
+  * Python 3.11.4  
   * Node.js (for frontend setup if applicable)  
   * Git for cloning the repository  
   * Virtual environment (recommended for backend dependencies)  
