@@ -3,14 +3,14 @@
 An interactive web application that recommends holiday destinations based on user-selected locations and personal descriptions. It uses a machine learning model to generate destination suggestions and displays results with descriptions and images.  
 
 ## Table of Contents
-  * Overview  
-  * Features  
-  * Demo  
-  * Technologies Used  
-  * Getting Started  
-  * Usage  
-  * API Reference  
-  * Contributing  
+- [Overview](#overview)
+- [Features](#features)
+- [Demo](#demo)
+- [Technologies Used](#technologies-used)
+- [Getting Started](#getting-started)
+- [Usage](#usage)
+- [API Reference](#api-reference)
+- [Contributing](#contributing)
   
 ## Overview
 The "Holiday Vacation Recommendation" web app helps users discover travel destinations by selecting a location and entering personal preferences. The app communicates with a FastAPI backend to generate recommendations based on the input, delivering suggestions with images and relevant details.
