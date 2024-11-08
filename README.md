@@ -73,7 +73,6 @@ Follow these steps to set up and run the project locally.
     ├── backend                     # FastAPI backend for recommendations
     │   ├── inference.py            # Main API endpoint
     │   └── load_model.py           # Build and save the architecture and fine-tune weights model
-    |   └── requirements.txt        # Backend dependencies
     ├── files
     |   ├── best_model.weights.h5   # Save the weights model after fine-tuning
     |   ├── encoded_file.npy        # File saves all encoded destination embeddings
@@ -83,6 +82,7 @@ Follow these steps to set up and run the project locally.
     │   ├── web.html                # Main HTML file for frontend
     │   └── style.css               # CSS file for frontend layout
     └── README.md                   # Project documentation
+    └── requirements.txt            # Backend dependencies
 
 
 ## Usage  
