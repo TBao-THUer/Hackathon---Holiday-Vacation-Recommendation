@@ -41,7 +41,7 @@ Follow these steps to set up and run the project locally.
 ## Installation
 ### 1. Clone the repository:  
     git clone https://github.com/TBao-THUer/Hackathon---Holiday-Vacation-Recommendation.git
-    cd holiday-vacation-recommendation
+    cd Hackathon---Holiday-Vacation-Recommendation
 ### 2. Backend Setup:  
   * Create a virtual environment and install dependencies:  
     ```bash  
