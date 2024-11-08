@@ -172,6 +172,11 @@
                 description: myDescription
             };
 
+            if (!inputData.location || !inputData.description) {
+                alert("Please enter both Location and Description before searching.");
+                return; // Dừng hàm nếu một trong các trường chưa được điền
+            }
+
             try {
                 const response = await fetch("http://127.0.0.1:8000/predict", {
                     method: "POST",
