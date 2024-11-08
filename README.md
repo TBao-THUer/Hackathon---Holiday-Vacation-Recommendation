@@ -50,7 +50,11 @@ Follow these steps to set up and run the project locally.
     ```bash  
     python -m venv env  
     source env/bin/activate  # On Windows, use `env\Scripts\activate`  
-    pip install -r requirements.txt  
+    pip install -r requirements.txt
+
+    ERROR: Could not install packages due to an OSError: [Errno 2] No such file or directory (if your device raises this error, the code below can help you)  
+    New-ItemProperty -Path "HKLM:\SYSTEM\CurrentControlSet\Control\FileSystem" -Name "LongPathsEnabled" -Value 1 -PropertyType DWORD -Force 
+    
    
   * Run the FastAPI server:  
     ```bash  
