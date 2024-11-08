@@ -57,7 +57,8 @@ Follow these steps to set up and run the project locally.
     
    
   * Run the FastAPI server:  
-    ```bash  
+    ```bash
+    cd backend
     uvicorn inference:app --reload  
     
 ### 3. Frontend Setup:  
