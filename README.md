@@ -97,6 +97,8 @@ Follow these steps to set up and run the project locally.
     "description": "I enjoy beaches and historical landmarks."  
     }    
 ## Response
+    ```json
+    [[ "Sukhothai Historical Park (Thailand): A site that combines natural beauty with historical ruins in a serene setting.", img_path_0], [ "Nusa Penida (Indonesia): Known for its stunning cliffs, beautiful beaches, and unique rock formations, a must-visit for nature lovers.", img_path_1], [ "Quy Nhon (Vietnam): A coastal city, known for its stunning beaches, ancient temples, and vibrant markets.", img_path_2 ], [ "Penghu Islands (Taiwan): A stunning archipelago known for its beautiful beaches, unique rock formations, and rich cultural history.", img_path_3 ], [ "Sentosa Island (Singapore): A resort destination featuring a world-renowned tourist attraction, beaches, water parks, and aquarium.", img_path_4]]
 
 ## Contributing  
   1. Fork the project.  
